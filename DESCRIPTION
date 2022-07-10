@@ -1,0 +1,11 @@
+Package: FinMaths
+Type: Package
+Title: Funciones para cálculos de matemáticas financieras.
+Version: 0.1.0
+Author: Jorge Valente Hernández Castelán
+Maintainer: Jorge Valente Hernández Castelán <valentehcastelan@hotmail.com>
+Description: La finalidad de este paquete es poder simplificar en la medida de lo posible los cálculos realizados para las áreas financieras, poder generarlos en masa y aumentar la eficiencia de éstos.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
