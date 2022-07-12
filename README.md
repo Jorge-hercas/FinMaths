@@ -1,7 +1,6 @@
 # FinMaths
 
-![logo_small](https://user-images.githubusercontent.com/70007745/178418733-8c1a9240-8fd2-4723-996a-09f1636d5a69.png)
-
+<img src="https://user-images.githubusercontent.com/70007745/178419034-c114d139-ed09-4b8c-99f5-550a64ac4ff5.png" width="200">
 
 
 La finalidad de este paquete es poder simplificar en la medida de lo posible los cálculos realizados para las áreas financieras, poder generarlos en masa y aumentar la eficiencia de éstos.
